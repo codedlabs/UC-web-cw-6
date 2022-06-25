@@ -52,7 +52,7 @@
  <p dir="rtl">
 <strong>بونص! ✨</strong></p>
 
-- قم بإستخدام  حدث onmouseover بدلاً من onclick في الخطوة 5
+- قم بإستخدام  حدث onmouseover بدلاً من onclick في الخطوة 3
 
 
 <h1></h1>
