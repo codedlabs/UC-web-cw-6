@@ -18,16 +18,13 @@
 
 
 
-
-1. قم بعمل fork للـ repository
-2. افتح الـ repository باستخدام github desktop
-3. افتح ملف script.js وابدأ الحل
-4. عرف دالة BMI تستقبل معاملين (weight, height)
+1. افتح ملف script.js وابدأ الحل
+2. عرف دالة BMI تستقبل معاملين (weight, height)
     - استخدم المعادلة التالية لحساب مؤشر وزن الجسم:
     <br><code>weight / (height * height)</code>
     - ارجع ناتج المعادلة بإستخدام كلمة return
-5. قم بمناداة الدالة داخل console.log ولا تنسى كتابة معاملات
-6. احفظ التغييرات 
+3. قم بمناداة الدالة داخل console.log ولا تنسى كتابة معاملات
+4. احفظ التغييرات 
 
 <p dir="rtl">
 <strong>بونص! ✨</strong></p>
@@ -79,8 +76,7 @@
     - اعرض قيمة متغير bmiResult ومتغير desc داخل الوسم الذي يحمل `ID : result`
 <br><code> document.getElementById(...).innerText = النتائج المطلوبة عرضها</code>
 4. اضف حدث onclick إلى الزر ليستدعي دالة calculate
-5. احفظ اتغيرات وارفع الكود إلى github
-6. قم بتسليم التمرين على موقع Coded Lab
+5. قم بتسليم التمرين على موقع Coded Lab
 
 
  <p dir="rtl">
